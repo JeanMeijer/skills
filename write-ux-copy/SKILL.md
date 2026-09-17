@@ -1,6 +1,12 @@
 ---
 name: write-ux-copy
-description: Write and review concise, high-quality interface copy for desktop and product applications. Use whenever creating or changing user-facing UI text: buttons, menus, labels, dialogs, errors, settings, tooltips, empty states, onboarding, permissions, notifications, search, commands, or status messages. Favors Apple-like restraint, clarity, contextual awareness, and platform conventions. Treats copy as part of the interaction design, not prose added afterward.
+description: >-
+  Write and review concise, high-quality interface copy for desktop and product
+  applications. Use whenever creating or changing user-facing UI text: buttons,
+  menus, labels, dialogs, errors, settings, tooltips, empty states, onboarding,
+  permissions, notifications, search, commands, or status messages. Favors
+  Apple-like restraint, clarity, contextual awareness, and platform conventions.
+  Treats copy as part of the interaction design, not prose added afterward.
 ---
 
 # Interface copy
